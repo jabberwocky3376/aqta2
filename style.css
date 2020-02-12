@@ -1,0 +1,34 @@
+body {
+  background-color: #b4b4b4;
+  color: 0deg;
+  border-style: dashed;
+  border-width: thick;
+  border-width: 1px;
+  border-color: red;
+  font-family: 'Hind', sans-serif;
+}
+
+footer {
+  margin-top: 5rem;
+  border-style: dashed;
+  border-width: 1px;
+  border-color: blue;
+}
+
+footer h1 {
+  text-align: center;
+  text-shadow: 298.125deg;
+  text-rendering: 10;
+}
+
+main {
+  border-width: 1px;
+  border-style: dashed;
+  border-color: green;
+  margin-top: 2.5rem;
+}
+
+main p {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

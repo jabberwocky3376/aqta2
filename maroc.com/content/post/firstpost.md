@@ -4,7 +4,7 @@ description = "記事の概要"
 tags        = ["Development", "Go", "profiling"]
 topics      = ["Development", "Go"]
 slug        = "";
-project_url = "https://github.com/spf13/nitro"
+project_url = "https://jabberwocky3376.github.io/aqta/"
 
 #はじめに
 ...記事本文

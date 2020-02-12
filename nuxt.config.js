@@ -2,7 +2,7 @@ const colors = require('vuetify/es5/util/colors').default
 
 router: {
     base: '/aqta/'
-},
+}
 
 module.exports = {
   mode: 'universal',

@@ -1,5 +1,9 @@
 const colors = require('vuetify/es5/util/colors').default
 
+router: {
+    base: '/aqta/'
+},
+
 module.exports = {
   mode: 'universal',
   /*
@@ -14,7 +18,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/aqta/favicon.ico' }
     ]
   },
   /*

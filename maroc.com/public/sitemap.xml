@@ -3,12 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jabberwocky3376.github.io/aqta/post/firstpost/</loc>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-1/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jabberwocky3376.github.io/aqta/</loc>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/proj-8/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -16,11 +47,15 @@
   </url>
   
   <url>
-    <loc>https://jabberwocky3376.github.io/aqta/post/</loc>
+    <loc>https://jabberwocky3376.github.io/aqta/</loc>
   </url>
   
   <url>
     <loc>https://jabberwocky3376.github.io/aqta/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jabberwocky3376.github.io/aqta/work/</loc>
   </url>
   
 </urlset>
